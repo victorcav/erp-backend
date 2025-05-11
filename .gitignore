@@ -1,0 +1,20 @@
+# Ambiente virtual Python
+venv/
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de logs
+*.log
+
+# Configurações do editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Outros
+*.env
+*.SQLite3
