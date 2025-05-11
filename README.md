@@ -1,7 +1,7 @@
 
 # 💻📱 Sistema de Gestão Empresarial (ERP)
 
-API do projetode um Sistema de Gestão Empresarial completo utilizando Django Rest Framework.
+API do projeto de um Sistema de Gestão Empresarial completo utilizando Django Rest Framework.
    
 ## 💎 Stacks utilizadas
 
