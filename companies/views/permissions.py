@@ -14,4 +14,4 @@ class PermissionDetail(Base):
 
         serializer = PermissionsSerializer(permissions, many=True)
 
-        return Response({"permisions": serializer.data})
+        return Response({"permissions": serializer.data})
